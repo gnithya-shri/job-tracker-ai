@@ -43,7 +43,7 @@ A full-stack job tracking and resume analysis application built using Flask (bac
 ## 📸 Project Preview
 
 ### Home Page
-![Home Page](ss.png)
+![Home Page](SS.png)
 ---
 
 ## 👨‍💻 Author
