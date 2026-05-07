@@ -6,7 +6,7 @@ A full-stack web application to track job applications and analyze resumes using
 
 # 🔗 Live Demo
 
-- 🌐 Frontend: [https://lighthearted-trifle-4f2a93.netlify.app/]
+- 🌐 Frontend: https://lighthearted-trifle-4f2a93.netlify.app/
 - 🖥 Backend: https://nithya5.pythonanywhere.com  
 
 ---
