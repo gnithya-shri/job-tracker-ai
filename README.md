@@ -6,7 +6,7 @@ A full-stack web application to track job applications and analyze resumes using
 
 # 🔗 Live Demo
 
-- 🌐 Frontend: https://YOUR-NETLIFY-LINK.netlify.app  
+- 🌐 Frontend: [https://YOUR-NETLIFY-LINK.netlify.app ](https://lighthearted-trifle-4f2a93.netlify.app/) 
 - 🖥 Backend: https://nithya5.pythonanywhere.com  
 
 ---
@@ -45,25 +45,21 @@ A full-stack web application to track job applications and analyze resumes using
 
 ## 🏠 Home Page
 ![Home Page](assets/home.png)  
-📌 (Upload home screen screenshot here)
 
 ---
 
 ## 📋 Job List View
 ![Job List](assets/jobs.png)  
-📌 (Upload job list screenshot after clicking Load Jobs here)
 
 ---
 
 ## 📊 Resume Analyzer Output
 ![Analyzer](assets/analyzer.png)  
-📌 (Upload resume analysis result screenshot here)
 
 ---
 
 ## 🌍 Deployment
 ![Deployment](assets/deploy.png)  
-📌 (Upload live deployed website screenshot here showing URL)
 
 ---
 
