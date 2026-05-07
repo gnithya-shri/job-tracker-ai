@@ -1,51 +1,98 @@
-# 🚀 Job Tracker AI
+# 🚀 Job Tracker AI (Full Stack Project)
 
-A full-stack job tracking and resume analysis application built using Flask (backend) and HTML/CSS/JS (frontend).
-
----
-
-## 🔗 Live Demo
-
-- Frontend (Netlify): https://lighthearted-trifle-4f2a93.netlify.app  
-- Backend (PythonAnywhere): https://nithya5.pythonanywhere.com  
+A full-stack web application to track job applications and analyze resumes using Flask backend and HTML/CSS/JavaScript frontend.
 
 ---
 
-## ⚙️ Features
+# 🔗 Live Demo
 
-- Add job applications (company, role, status)
-- Track application status (Applied / Interview / Rejected)
-- Resume skill analysis
-- Match score calculation
+- 🌐 Frontend: https://YOUR-NETLIFY-LINK.netlify.app  
+- 🖥 Backend: https://nithya5.pythonanywhere.com  
+
+---
+
+# 📌 Features
+
+- Add job applications (Company, Role, Status)
+- Track job status (Applied / Interview / Rejected)
+- View all job applications dynamically
+- Resume skill analyzer
+- Match percentage calculation
 - Missing skills detection
-- REST API backend
+- REST API integration
 - Fully deployed frontend + backend
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠 Tech Stack
 
 - Frontend: HTML, CSS, JavaScript
 - Backend: Python, Flask
 - Database: SQLite
-- Hosting: Netlify + PythonAnywhere
+- Deployment: Netlify + PythonAnywhere
 
 ---
 
-## 📦 API Endpoints
+# 📡 API Endpoints
 
-- POST /add-job
-- GET /get-jobs
-- POST /analyze
+- POST `/add-job` → Add job
+- GET `/get-jobs` → Get all jobs
+- POST `/analyze` → Resume analysis
 
 ---
 
-## 📸 Project Preview
+# 📸 Screenshots
 
-### Home Page
-![Home Page](SS.png)
+## 🏠 Home Page
+![Home Page](assets/home.png)  
+📌 (Upload home screen screenshot here)
+
 ---
 
-## 👨‍💻 Author
+## 📋 Job List View
+![Job List](assets/jobs.png)  
+📌 (Upload job list screenshot after clicking Load Jobs here)
 
-Nithya Shri
+---
+
+## 📊 Resume Analyzer Output
+![Analyzer](assets/analyzer.png)  
+📌 (Upload resume analysis result screenshot here)
+
+---
+
+## 🌍 Deployment
+![Deployment](assets/deploy.png)  
+📌 (Upload live deployed website screenshot here showing URL)
+
+---
+
+# 🧠 How It Works
+
+1. User adds job details → stored in SQLite via Flask API  
+2. User clicks Load Jobs → data fetched from backend  
+3. User uploads resume → backend analyzes skills vs job description  
+4. Result shown as match percentage + missing skills  
+
+---
+
+# 👨‍💻 Project Architecture
+
+Frontend (HTML/JS) → API Calls → Flask Backend → SQLite DB
+
+---
+
+# 🚀 Future Improvements
+
+- User authentication (Login/Signup)
+- Dashboard analytics (charts)
+- Resume scoring improvement using NLP
+- Cloud database (PostgreSQL)
+- UI upgrade (React frontend)
+
+---
+
+# 👨‍🎓 Author
+
+Nithya Shri  
+Full Stack Developer (Fresher)
